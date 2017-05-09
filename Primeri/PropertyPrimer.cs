@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace konzolniPrimeri
 {
-    class ProperyPrimer
+    class PropertyPrimer
     {
-        public ProperyPrimer(string name)
+        public PropertyPrimer(string name)
         {
             Name = name;
         }
